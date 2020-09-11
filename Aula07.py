@@ -77,5 +77,4 @@ b = Point(3,9)
 
 print(a.getPointValue())
 print(a.hipo())
-
 print(a.half(b))

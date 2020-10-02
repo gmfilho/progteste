@@ -1,6 +1,6 @@
 # Exercício da aula 08 - Implementação dos arquivos de csv e txt
 
-# Solicitar ao usuário a forma de gravação do arquivo. 
+# Solicitar ao usuário a forma de gravação do arquivo.
 
 import csv
 
